@@ -1,0 +1,19 @@
+{
+  "name": "aws-images",
+  "version": "1.0.0",
+  "description": "A serverless image \"server\" on AWS using S3 and Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerrieclark831/aws-images.git"
+  },
+  "author": "Kerrie Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kerrieclark831/aws-images/issues"
+  },
+  "homepage": "https://github.com/kerrieclark831/aws-images#readme"
+}
